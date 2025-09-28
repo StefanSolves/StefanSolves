@@ -19,7 +19,7 @@ Expanding my expertise in **Google Cloud Platform (GCP)** to build scalable clou
 Exciting projects in **software development**, **cybersecurity**, and **cloud solutions**. Always open to discussing new ideas or contributing to meaningful tech initiatives.<br><br>
 
 🤔 **Looking for help with**  <br>
-Optimizing my **DevOps** workflows and exploring advanced cloud security practices.<br><br>
+Optimising my **DevOps** workflows and exploring advanced cloud security practices.<br><br>
 
 💬 **Ask me about**  <br>
 How to build scalable, secure applications using **Go** and **JavaScript**, or anything related to **cloud architecture** and **cybersecurity**.<br><br>
@@ -28,7 +28,8 @@ How to build scalable, secure applications using **Go** and **JavaScript**, or a
 Feel free to connect with me via [LinkedIn](https://linkedin.com/in/stefansolves)<br><br>
 
 🎉 **What I enjoy**  <br>
-Attending tech events to connect with like-minded professionals, explore cutting-edge technologies, and stay inspired by the latest trends in the industry.  <br><br>
+Attending tech events to connect with like-minded professionals, explore cutting-edge technologies, and stay inspired by the latest trends in the industry. As a **Google Developers Group (GDG) organiser**, I also enjoy bringing people together, fostering collaboration, and helping others learn and grow in tech.  <br><br>
+
 
 👨‍💻 **When I don't code**<br><br>
 I enjoy creating content about tech and my experiences at events on social media platforms like Instagram and TikTok. Stay tuned — content coming soon!<br>
@@ -45,4 +46,3 @@ I enjoy creating content about tech and my experiences at events on social media
 ---
 [![](https://visitcount.itsvg.in/api?id=stefansolves&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
