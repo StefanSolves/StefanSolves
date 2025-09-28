@@ -1,6 +1,3 @@
-## Hi there 👋
-
-# 💫 About Me:
 # Hi there, I'm Stefan 👋<br><br>
 
 🔭 **Currently working on**  <br>
