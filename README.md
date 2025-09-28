@@ -29,7 +29,7 @@ Attending tech events to connect with like-minded professionals, explore cutting
 
 
 👨‍💻 **When I don't code**<br><br>
-I enjoy creating content about tech and my experiences at events on social media platforms like Instagram and TikTok. Stay tuned — content coming soon!<br>
+I enjoy creating content about tech and my experiences at events on social media platforms like Instagram and TikTok. Stay tuned - content coming soon!<br>
 
 
 
