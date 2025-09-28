@@ -1,7 +1,38 @@
 ## Hi there 👋
 
 # 💫 About Me:
-# Hi there, I'm Stefan 👋<br><br>🔭 **Currently working on**  <br>Building innovative projects with **Go** and **JavaScript**, focusing on **cybersecurity**, **cloud**, and **DevOps**.<br><br>A personal cloud using a Raspberry Pi 400 and an SSD with Nextcloud for secure, private cloud storage and file synchronization.<br><br>Currently studying for the Associate Cloud Engineer certification on Google Cloud Platform (GCP) to deepen my cloud expertise.<br><br>🌱 **Learning**  <br>Expanding my expertise in **Google Cloud Platform (GCP)** to build scalable cloud solutions.<br><br>👯 **Looking to collaborate on**  <br>Exciting projects in **software development**, **cybersecurity**, and **cloud solutions**. Always open to discussing new ideas or contributing to meaningful tech initiatives.<br><br>🤔 **Looking for help with**  <br>Optimizing my **DevOps** workflows and exploring advanced cloud security practices.<br><br>💬 **Ask me about**  <br>How to build scalable, secure applications using **Go** and **JavaScript**, or anything related to **cloud architecture** and **cybersecurity**.<br><br>📫 **How to reach me**  <br>Feel free to connect with me via [LinkedIn](https://linkedin.com/in/stefan-c-791b8a17b)<br><br>🎉 **What I enjoy**  <br>Attending tech events to connect with like-minded professionals, explore cutting-edge technologies, and stay inspired by the latest trends in the industry.  <br><br>👨‍💻 **When I don't code**<br><br>I enjoy creating content about tech and my experiences at events on social media platforms like Instagram and TikTok. Stay tuned — content coming soon!<br>
+# Hi there, I'm Stefan 👋<br><br>
+
+🔭 **Currently working on**  <br>
+Building innovative projects with **Go** and **JavaScript**, focusing on **cybersecurity**, **cloud**, and **DevOps**.<br><br>
+
+A personal cloud using a Raspberry Pi 400 and an SSD with Nextcloud for secure, private cloud storage and file synchronization.<br><br>
+
+A **zipper project** for traffic flow optimisation using **GCP**, **Firebase**, **Go**, and **JavaScript**, designed to explore scalable, real-time cloud solutions.<br><br>
+
+Currently studying for the Cloud Engineer certification on Google Cloud Platform (GCP) to deepen my cloud expertise.<br><br>
+
+🌱 **Learning**  <br>
+Expanding my expertise in **Google Cloud Platform (GCP)** to build scalable cloud solutions.<br><br>
+
+👯 **Looking to collaborate on**  <br>
+Exciting projects in **software development**, **cybersecurity**, and **cloud solutions**. Always open to discussing new ideas or contributing to meaningful tech initiatives.<br><br>
+
+🤔 **Looking for help with**  <br>
+Optimizing my **DevOps** workflows and exploring advanced cloud security practices.<br><br>
+
+💬 **Ask me about**  <br>
+How to build scalable, secure applications using **Go** and **JavaScript**, or anything related to **cloud architecture** and **cybersecurity**.<br><br>
+
+📫 **How to reach me**  <br>
+Feel free to connect with me via [LinkedIn](https://linkedin.com/in/stefansolves)<br><br>
+
+🎉 **What I enjoy**  <br>
+Attending tech events to connect with like-minded professionals, explore cutting-edge technologies, and stay inspired by the latest trends in the industry.  <br><br>
+
+👨‍💻 **When I don't code**<br><br>
+I enjoy creating content about tech and my experiences at events on social media platforms like Instagram and TikTok. Stay tuned — content coming soon!<br>
+
 
 
 ## 🌐 Socials:
